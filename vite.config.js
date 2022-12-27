@@ -3,6 +3,6 @@
 
   // https://vitejs.dev/config/
   export default defineConfig({
-+   base: "/QuickNote2.0/", 
+    base: "/QuickNote2.0/", 
     plugins: [react()]
   })
